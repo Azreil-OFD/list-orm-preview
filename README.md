@@ -35,6 +35,7 @@ data.append(new_obj)</code></pre>
 <p>Вы можете вносить свой вклад в развитие этого проекта, создавая pull request'ы и открывая новые issues.</p>
 <h2>Разработчик</h2>
 <p>ORM Python для работы с JSON разработан <a href="https://github.com/Azreil-OFD">Azreil-OFD</a> и доступен на <a href="https://github.com/Azreil-OFD/list-orm">GitHub</a>.</p>
-<h2>Вклад в проект</h2>
+    <h2>Вклад в проект</h2>
+<p>Вы можете вносить свой вклад в развитие этого проекта, создавая pull request'ы и открывая новые issues.</
   </body>
 </html>
