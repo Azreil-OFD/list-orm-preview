@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>ORM Python для работы с JSON</title>
-  </head>
   <body>
     <h1>ORM Python для работы с JSON</h1>
     <p>Этот проект представляет собой простую ORM (Object-Relational Mapping) библиотеку на языке Python для работы с файлами в формате JSON. Она использует синтаксис массивов для работы с данными JSON файлов.</p>
